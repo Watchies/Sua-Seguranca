@@ -1,28 +1,39 @@
 body {
   margin-top:30px;
-  background:red;
+ background:white;
 }
 
 p2 {
   margin:10px;
   font-size:31px;
-  background:black;
   padding:1px;
-  color:white;
+ text-align:center;
   text-align:center;
+  color:red;
 }
 
 .link{
-  margin-top:10px;
+  margin:10px;
   border-radius:60px;
   font-size:34px;
-  background:white;
-  padding:5px;
-  color:red; 
+  background:#2E9AFE;
+  padding:5px 10px;
+  border-width: 3.5px;
+  border-style: solid;
+  border-color: black;
+  color:white;
 }
 
+
 .conteinerP {
-  margin:30px
+  margin:30px;
+  border-width: 3.5px;
+  border-style: solid;
+  border-color: black;
+  color:#ffffff;
+  border-radius:10px;
+  padding:20px;
+  background:#000000;
 }
 
 .conteiner{
